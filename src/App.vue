@@ -18,13 +18,13 @@
                             <v-card class="elevation-2">
                                 <v-card-title class="headline">2019-12-01 周日</v-card-title>
                                 <v-card-text>
-                                    海外论文发表
+                                    首例患者发病时间
                                 </v-card-text>
                             </v-card>
                         </v-timeline-item>
                     </v-timeline>
                 </td>
-                <td bgcolor="#F0F0F0">据《柳叶刀》相关论文披露，武汉金银潭医院收治首例新冠患者，无华南海鲜市场接触者</td>
+                <td bgcolor="#F0F0F0">据《柳叶刀》相关论文披露，12月1日，武汉金银潭医院收治的首例新冠患者发病，无华南海鲜市场接触史</td>
                 <td bgcolor="#F7F0F0"></td>
                 <td bgcolor="#F0F7F0"></td>
                 <td bgcolor="#F0F0F7"></td>
