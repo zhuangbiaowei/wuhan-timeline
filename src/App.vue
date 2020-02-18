@@ -149,6 +149,25 @@
                     <v-timeline dense="true">
                         <v-timeline-item right="true">
                             <v-card class="elevation-2">
+                                <v-card-title class="headline">2020-01-02 周四</v-card-title>
+                                <v-card-text>
+                                    各种未经证实的信息
+                                </v-card-text>
+                            </v-card>
+                        </v-timeline-item>
+                    </v-timeline>
+                </td>
+                <td bgcolor="#F0F0F0"></td>
+                <td bgcolor="#F7F0F0"></td>
+                <td bgcolor="#F0F7F0"></td>
+                <td bgcolor="#F0F0F7">海军工程大学内部文件显示，严控外来人员入校<br/>武汉病毒所所长王延轶给内部邮件称，国家卫健委要求，严禁向媒体、自媒体、社交媒体及合作的技术公司等披露任何有关这次肺炎疫情的研究资讯</td>
+                <td bgcolor="#F0F7F7"></td>
+            </tr>            
+            <tr>
+                <td width="400">
+                    <v-timeline dense="true">
+                        <v-timeline-item right="true">
+                            <v-card class="elevation-2">
                                 <v-card-title class="headline">2020-01-03 周五</v-card-title>
                                 <v-card-text>
                                     李文亮被训诫
